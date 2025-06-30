@@ -1,0 +1,802 @@
+[
+  {
+    "question_no": 1,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of GDP did Bangladesh spend on healthcare in 2019?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2019, Bangladesh spent 2.34% of its GDP on healthcare."
+  },
+  {
+    "question_no": 2,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "According to the Human Rights Measurement Initiative, what percentage of the right to health is Bangladesh fulfilling based on its income level?",
+    "Responsed_model": "GPT-4",
+    "model_response": "According to the Human Rights Measurement Initiative, Bangladesh is fulfilling 66.9% of the right to health based on its income level."
+  },
+  {
+    "question_no": 3,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How much of the right to health for children is Bangladesh achieving based on its income?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As an AI language model, I don't have real-time data. However, I can provide some general information. The right to health for children in Bangladesh, as in many countries, is influenced by various factors including income levels, government policies, healthcare infrastructure, and access to medical services. \n\nBangladesh is a lower-middle-income country, and while it has made significant progress in improving health outcomes for children over the past few decades, challenges remain. Issues such as malnutrition, inadequate healthcare facilities, and limited access to clean water and sanitation still affect children's health.\n\nTo assess how much of the right to health for children Bangladesh is achieving based on its income, one would need to look at specific health indicators such as infant mortality rates, vaccination coverage, and prevalence of malnutrition, and compare these to other countries with similar income levels. Additionally, examining government expenditure on healthcare and initiatives aimed at improving children's health would provide further insights.\n\nFor the most accurate and current information, consulting recent studies, health reports, or data from organizations such as the World Health Organization (WHO) or UNICEF would be beneficial."
+  },
+  {
+    "question_no": 4,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the percentage of right to health fulfillment for adults in Bangladesh based on income?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I don't have access to specific data regarding the percentage of right to health fulfillment for adults in Bangladesh based on income. You may want to consult reports or databases from organizations such as the World Health Organization or the United Nations for more detailed and accurate information on this topic."
+  },
+  {
+    "question_no": 5,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of expected reproductive health rights is Bangladesh fulfilling based on its available resources?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Bangladesh is fulfilling 61% of its expected reproductive health rights based on its available resources."
+  },
+  {
+    "question_no": 6,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "Into which category does Bangladesh fall when evaluated on reproductive health rights?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Bangladesh falls into the category of countries with restrictive reproductive health rights. Access to comprehensive reproductive health services, including safe and legal abortion, is limited, and there are significant barriers to accessing contraception and other essential reproductive health services."
+  },
+  {
+    "question_no": 7,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What was the health sector budget in the 2017–18 parliamentary budget of Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The health sector budget in the 2017–18 parliamentary budget of Bangladesh was 16,203 crore BDT."
+  },
+  {
+    "question_no": 8,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How many hospital beds are there per 10,000 people in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of 2021, there are approximately 8 hospital beds per 10,000 people in Bangladesh."
+  },
+  {
+    "question_no": 9,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What was the general government expenditure on healthcare as a percentage of total government expenditure in 2009?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The general government expenditure on healthcare as a percentage of total government expenditure in 2009 was 14.1%."
+  },
+  {
+    "question_no": 10,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of private health expenditure in Bangladesh is paid out-of-pocket?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In Bangladesh, approximately 96.5% of private health expenditure is paid out-of-pocket."
+  },
+  {
+    "question_no": 11,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the doctor-to-population ratio in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of my last knowledge update in September 2021, the doctor-to-population ratio in Bangladesh is approximately 1 doctor for every 2,000 people. However, this ratio may vary in different regions of the country and may have changed since then. It is advisable to consult more recent sources or local health authorities for the most current data."
+  },
+  {
+    "question_no": 12,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the nurse-to-population ratio in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of my last knowledge update in September 2021, the nurse-to-population ratio in Bangladesh is approximately 0.3 nurses per 1,000 people. However, this figure may have changed since then, and I recommend checking the latest data from reliable sources such as the World Health Organization or the Bangladesh Ministry of Health for the most current information."
+  },
+  {
+    "question_no": 13,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "According to WHO, how many hospitals were there in Bangladesh as of 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of 2021, there were 1,452 hospitals in Bangladesh according to the World Health Organization (WHO)."
+  },
+  {
+    "question_no": 14,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What types of hospitals are included in the 5,146 count provided by WHO for Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The 5,146 count of hospitals in Bangladesh provided by WHO includes various types of hospitals such as public hospitals, private hospitals, and specialized hospitals."
+  },
+  {
+    "question_no": 15,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What range of medical services do hospitals in Bangladesh offer?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Hospitals in Bangladesh offer a wide range of medical services, including general medicine, surgery, pediatrics, obstetrics and gynecology, orthopedics, cardiology, neurology, and oncology. Many hospitals also provide specialized services such as dialysis, radiology, pathology, and rehabilitation. Additionally, some hospitals offer emergency services, intensive care units, and outpatient clinics. The availability and quality of services can vary depending on the hospital and its location, with urban areas generally having better-equipped facilities than rural areas."
+  },
+  {
+    "question_no": 16,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What efforts has the government of Bangladesh made to improve hospital quality?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The government of Bangladesh has made several efforts to improve hospital quality, including:\n\n1. Infrastructure Development: The government has invested in building and upgrading hospital facilities, including constructing new hospitals and renovating existing ones to provide better healthcare services.\n\n2. Training and Capacity Building: The government has focused on training healthcare professionals, including doctors, nurses, and other medical staff, to improve the quality of care provided in hospitals.\n\n3. Implementation of Quality Standards: The government has introduced quality standards and accreditation systems for hospitals to ensure that they meet certain criteria and provide high-quality care.\n\n4. Public-Private Partnerships: The government has encouraged public-private partnerships to improve hospital management and service delivery.\n\n5. Digital Health Initiatives: The government has implemented digital health initiatives, such as electronic health records and telemedicine services, to improve hospital efficiency and patient care.\n\nOverall, these efforts aim to enhance the quality of hospital services and ensure better healthcare outcomes for the population of Bangladesh."
+  },
+  {
+    "question_no": 17,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How is Bangladesh’s economy described in relation to its public health challenges and opportunities?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Bangladesh's economy is described as rapidly growing, with significant advancements in sectors such as textiles and agriculture. However, the country faces public health challenges such as limited access to healthcare services, high rates of communicable diseases, and inadequate sanitation facilities. Despite these challenges, there are opportunities for improvement in public health through investments in healthcare infrastructure, implementation of effective policies, and collaboration with international organizations to enhance healthcare delivery and disease prevention. The economic growth of Bangladesh provides a platform to address these public health issues and improve the overall well-being of its population."
+  },
+  {
+    "question_no": 18,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What aspects of Bangladeshi society have undergone a 'remarkable metamorphosis'?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Bangladeshi society has undergone a remarkable metamorphosis in several aspects, including economic growth, social development, and technological advancement. The country has experienced significant economic progress, with a growing GDP and increased foreign investment. Socially, there have been improvements in education, healthcare, and gender equality, with more opportunities for women and marginalized communities. Additionally, technological advancements have led to increased connectivity and access to information, further driving societal changes and development."
+  },
+  {
+    "question_no": 19,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How does the Human Rights Measurement Initiative assess Bangladesh's fulfillment of health rights relative to its income?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The Human Rights Measurement Initiative assesses Bangladesh's fulfillment of health rights relative to its income by comparing the country's actual performance in health rights to the expected level of performance based on its income. This involves analyzing data on health outcomes, access to healthcare services, and health-related resources, and comparing these to the income-adjusted benchmarks. The assessment helps to identify gaps and areas for improvement in Bangladesh's efforts to fulfill health rights in line with its economic capacity."
+  },
+  {
+    "question_no": 20,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "Which population group in Bangladesh has the highest percentage fulfillment of the right to health?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I can't provide an answer to that question without more specific data or context. The fulfillment of the right to health can vary based on various factors such as location, gender, age, and socioeconomic status. More detailed information or a specific study would be needed to accurately determine which population group in Bangladesh has the highest percentage fulfillment of the right to health."
+  },
+  {
+    "question_no": 21,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the role of hospitals in Bangladesh’s healthcare system?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Hospitals in Bangladesh play a crucial role in the country's healthcare system by providing a wide range of medical services to the population. They offer both inpatient and outpatient care, including emergency services, surgeries, maternal and child healthcare, and treatment for various illnesses and diseases. Hospitals in Bangladesh also serve as centers for medical education and training, as well as research and development in the field of medicine. Additionally, they play a key role in public health initiatives, such as vaccination campaigns and disease prevention programs. Overall, hospitals are essential in ensuring access to healthcare services and improving the health outcomes of the population in Bangladesh."
+  },
+  {
+    "question_no": 22,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What emphasis has Bangladesh placed on its healthcare infrastructure?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Bangladesh has placed a strong emphasis on improving its healthcare infrastructure by increasing healthcare spending, expanding access to medical facilities, and investing in training and education for healthcare professionals. The government has also implemented various health programs and initiatives aimed at reducing maternal and child mortality rates, combating infectious diseases, and improving overall public health. Additionally, efforts have been made to strengthen the healthcare system through public-private partnerships and collaborations with international organizations."
+  },
+  {
+    "question_no": 23,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What initiatives has the government of Bangladesh implemented to promote patient safety?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The government of Bangladesh has implemented several initiatives to promote patient safety, including:\n\n1. National Patient Safety Policy: The government has developed a comprehensive policy to guide healthcare providers in implementing best practices for patient safety.\n\n2. Training and Capacity Building: Healthcare professionals are provided with training on patient safety protocols, infection control, and safe medication practices.\n\n3. Accreditation and Licensing: Healthcare facilities are required to meet certain standards and obtain accreditation to ensure they provide safe and quality care.\n\n4. Public Awareness Campaigns: The government runs campaigns to educate the public about patient rights, safe medication practices, and infection prevention.\n\n5. Surveillance and Reporting Systems: Systems have been established to monitor and report adverse events, medical errors, and near misses to improve patient safety.\n\n6. Implementation of Electronic Health Records (EHR): The use of EHRs helps in reducing medication errors, improving diagnosis, and enhancing overall patient safety.\n\nThese initiatives aim to create a safer healthcare environment and improve the quality of care for patients in Bangladesh."
+  },
+  {
+    "question_no": 24,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the significance of Bangladesh having 5,146 hospitals in terms of access?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The significance of Bangladesh having 5,146 hospitals in terms of access is that it potentially improves healthcare availability for its population. With a higher number of hospitals spread across the country, people are more likely to have access to medical facilities within a reasonable distance from their homes. This can lead to better health outcomes, as individuals can receive timely medical attention, preventive care, and treatment for illnesses. Additionally, having a larger number of hospitals can help reduce overcrowding and wait times, further enhancing the quality of care provided to patients. Overall, the presence of 5,146 hospitals in Bangladesh is a positive indicator of the country's commitment to ensuring accessible healthcare for its citizens."
+  },
+  {
+    "question_no": 25,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What year does the WHO hospital data for Bangladesh refer to?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The WHO hospital data for Bangladesh refers to the year 2014."
+  },
+  {
+    "question_no": 26,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What type of disease is Chikungunya?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Chikungunya is a viral disease transmitted to humans by infected mosquitoes. It is caused by the Chikungunya virus and is characterized by symptoms such as fever, joint pain, headache, nausea, fatigue, and rash. The disease is typically not life-threatening, but the joint pain can be severe and debilitating."
+  },
+  {
+    "question_no": 27,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How is Chikungunya transmitted to humans?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Chikungunya is transmitted to humans through the bite of an infected mosquito. The primary mosquito species responsible for spreading the virus are Aedes aegypti and Aedes albopictus, which are also known to transmit other viruses such as dengue and Zika. These mosquitoes become infected when they bite a person who is already infected with the virus, and can then transmit the virus to other people through subsequent bites."
+  },
+  {
+    "question_no": 28,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which specific mosquito species are known to transmit Chikungunya and are present in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The specific mosquito species known to transmit Chikungunya and are present in Bangladesh are Aedes aegypti and Aedes albopictus."
+  },
+  {
+    "question_no": 29,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "To which family and genus does the Chikungunya virus belong?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The Chikungunya virus belongs to the Togaviridae family and the Alphavirus genus."
+  },
+  {
+    "question_no": 30,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When and where was Chikungunya first described?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Chikungunya was first described in 1952 during an outbreak in southern Tanzania, which was then known as the Makonde Plateau."
+  },
+  {
+    "question_no": 31,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "In which regions has CHIKV been reported to cause large-scale outbreaks?",
+    "Responsed_model": "GPT-4",
+    "model_response": "CHIKV, or Chikungunya virus, has been reported to cause large-scale outbreaks in regions including Africa, Asia, Europe, and the Americas."
+  },
+  {
+    "question_no": 32,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How does the transmission cycle of Chikungunya virus in the South-East Asia region differ from that on the African continent?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The transmission cycle of Chikungunya virus differs between the South-East Asia region and the African continent primarily in the vector species involved and the nature of the transmission cycle.\n\nIn the African continent, the primary vector for Chikungunya virus is the Aedes aegypti mosquito, but Aedes albopictus can also serve as a vector. The transmission cycle in Africa is typically sylvatic, involving wild primate hosts and forest-dwelling Aedes mosquitoes. This means that the virus circulates between non-human primates and mosquito vectors in a natural forest habitat. Humans can become infected when they encroach into these forested areas and are bitten by infected mosquitoes.\n\nIn contrast, in the South-East Asia region, the transmission cycle is primarily urban and involves primarily the Aedes aegypti mosquito, and to a lesser extent, Aedes albopictus. In this region, the virus circulates mainly among humans in densely populated urban areas, with mosquitoes transmitting the virus from one human to another. This urban cycle leads to larger outbreaks in human populations due to the high density of both humans and mosquito vectors.\n\nOverall, the key difference is that in Africa, the transmission cycle often involves a sylvatic cycle with wild animal hosts, while in South-East Asia, the transmission is primarily urban and human-centered."
+  },
+  {
+    "question_no": 33,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When and where was the first recognized outbreak of Chikungunya reported in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The first recognized outbreak of Chikungunya in Bangladesh was reported in 2008 in the villages near the border with Myanmar."
+  },
+  {
+    "question_no": 34,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When were two small-scale Chikungunya outbreaks documented in rural communities in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "Two small-scale Chikungunya outbreaks were documented in rural communities in Bangladesh in 2008 and 2011."
+  },
+  {
+    "question_no": 35,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When did a massive outbreak of Chikungunya occur in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "A massive outbreak of Chikungunya occurred in Bangladesh in 2017."
+  },
+  {
+    "question_no": 36,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many people in Dhaka were at risk of Chikungunya infection during the 2017 outbreak?",
+    "Responsed_model": "GPT-4",
+    "model_response": "During the 2017 outbreak in Dhaka, approximately 3 million people were at risk of Chikungunya infection."
+  },
+  {
+    "question_no": 37,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many cases were involved in the research study conducted between July 24 and August 5, 2017, regarding Chikungunya?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The research study conducted between July 24 and August 5, 2017, involved 25 cases of Chikungunya."
+  },
+  {
+    "question_no": 38,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What is considered the most consistent clinical feature of Chikungunya infection?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The most consistent clinical feature of Chikungunya infection is the sudden onset of high fever accompanied by severe joint pain or arthritis. Other common symptoms may include muscle pain, headache, nausea, fatigue, and rash."
+  },
+  {
+    "question_no": 39,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Arthralgia?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The percentage of patients in the study who experienced Arthralgia is 14.7%."
+  },
+  {
+    "question_no": 40,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Skin Rash?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The percentage of patients in the study who experienced Skin Rash is 20%."
+  },
+  {
+    "question_no": 41,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Headache?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (An error occurred while sending the request.) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 42,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What factors can influence the severity of Chikungunya's clinical manifestations?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 43,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which age group tended to have a higher proportion of oligo-arthralgia and skin rash due to Chikungunya?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 44,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which age group most commonly experienced joint swelling due to Chikungunya?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 45,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Between January 1 and August 19, 2023, how many cases of dengue were reported in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 46,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of women were affected by the dengue outbreak in Bangladesh between January 1 and August 19, 2023?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 47,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many deaths were caused by tobacco from any cause in Bangladesh in 2018?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 48,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What were the direct healthcare costs attributable to tobacco use annually in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 49,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What was the estimated annual productivity loss due to morbidity and premature mortality from tobacco-related diseases in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "ERROR: Unexpected exception - Retry failed after 4 tries. Retry settings can be adjusted in ClientOptions.Retry or by configuring a custom retry policy in ClientOptions.RetryPolicy. (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443)) (No such host is known. (inforai-chatbots-v2.openai.azure.com:443))"
+  },
+  {
+    "question_no": 50,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What was the total annual economic cost attributable to tobacco use in Bangladesh, and what percentage of the GDP did it represent in 2017–18?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The total annual economic cost attributable to tobacco use in Bangladesh was BDT 305.6 billion, which represented 1.4% of the GDP in 2017-18."
+  },
+  {
+    "question_no": 51,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What year was the Health and Population Sector Strategy (HPSS) developed in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The Health and Population Sector Strategy (HPSS) was developed in Bangladesh in 1998."
+  },
+  {
+    "question_no": 52,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What were the seven strategies included in the HPSP (MOHFW, 1998)?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The seven strategies included in the HPSP (MOHFW, 1998) were:\n\n1. Increasing access to essential health services.\n2. Enhancing the quality of health services.\n3. Strengthening the health infrastructure.\n4. Human resource development.\n5. Promoting the use of appropriate technology.\n6. Mobilizing additional resources for health.\n7. Improving health management and information systems."
+  },
+  {
+    "question_no": 53,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the number of under-5 deaths, infant deaths, and neonatal deaths in Bangladesh in 1990?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 1990, Bangladesh had 265,000 under-5 deaths, 179,000 infant deaths, and 108,000 neonatal deaths."
+  },
+  {
+    "question_no": 54,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What were the major causes of under-5 child mortality in Bangladesh in the given passage?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The major causes of under-5 child mortality in Bangladesh mentioned in the passage are pneumonia, diarrhea, and drowning."
+  },
+  {
+    "question_no": 55,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "In what year did the number of under-5 deaths, infant deaths, and neonatal deaths significantly reduce in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The number of under-5 deaths, infant deaths, and neonatal deaths significantly reduced in Bangladesh in the year 2016."
+  },
+  {
+    "question_no": 56,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What is the current number of under-5 deaths, infant deaths, and neonatal deaths in Bangladesh as of 2017?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of 2017, the number of under-5 deaths in Bangladesh is approximately 119,000. The number of infant deaths is approximately 87,000, and the number of neonatal deaths is approximately 62,000."
+  },
+  {
+    "question_no": 57,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What is the risk of mortality for smaller babies in Bangladesh, according to a study on risk factors of infant mortality?",
+    "Responsed_model": "GPT-4",
+    "model_response": "According to a study on risk factors of infant mortality in Bangladesh, smaller babies face a higher risk of mortality."
+  },
+  {
+    "question_no": 58,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "In what ways are infant mortality rates lower for the urban population and higher economic classes in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In Bangladesh, infant mortality rates are generally lower for the urban population and higher economic classes due to several factors:\n\n1. Access to healthcare: Urban areas and higher economic classes typically have better access to healthcare facilities, including hospitals, clinics, and skilled healthcare professionals. This access allows for better prenatal care, safer childbirth, and prompt medical attention for infants when needed.\n\n2. Education: Higher economic classes and urban populations often have higher levels of education, which can lead to better knowledge about infant care, nutrition, and hygiene practices. Educated parents are more likely to seek timely medical help and follow healthcare advice, reducing the risk of infant mortality.\n\n3. Nutrition: Higher economic classes usually have better access to nutritious food and can afford a balanced diet for both the mother during pregnancy and the infant after birth. Proper nutrition is crucial for the healthy development of infants and can prevent malnutrition-related mortality.\n\n4. Sanitation and hygiene: Urban areas and wealthier households are more likely to have access to clean water and sanitation facilities, reducing the risk of infections and diseases that can contribute to infant mortality.\n\n5. Financial resources: Higher economic classes have the financial means to afford quality healthcare services, vaccinations, and treatments that may be out of reach for lower-income families.\n\nOverall, the combination of better healthcare access, education, nutrition, sanitation, and financial resources contributes to lower infant mortality rates among the urban population and higher economic classes in Bangladesh."
+  },
+  {
+    "question_no": 59,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the Millennium Development Goal (MDG) 5 target for reducing the maternal mortality rate (MMR) in Bangladesh by 2015?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The Millennium Development Goal (MDG) 5 target for reducing the maternal mortality rate (MMR) in Bangladesh by 2015 was to reduce the MMR by three-quarters from the 1990 baseline."
+  },
+  {
+    "question_no": 60,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the MMR in Bangladesh in 1990 and 2015?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The Maternal Mortality Ratio (MMR) in Bangladesh was 574 per 100,000 live births in 1990 and 176 per 100,000 live births in 2015."
+  },
+  {
+    "question_no": 61,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the global MMR in 1990 and 2015?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The global maternal mortality ratio (MMR) was 385 maternal deaths per 100,000 live births in 1990, and it decreased to 216 maternal deaths per 100,000 live births in 2015."
+  },
+  {
+    "question_no": 62,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "How many deaths of women during pregnancy or within 42 days of termination occurred in Bangladesh in 1990 and 2015?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In Bangladesh, there were an estimated 24,000 maternal deaths in 1990 and 5,600 maternal deaths in 2015."
+  },
+  {
+    "question_no": 63,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 received postnatal care within two days after giving birth in 2014, according to data on maternal health indicators in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "According to data on maternal health indicators in Bangladesh, 42% of women aged 15–49 received postnatal care within two days after giving birth in 2014."
+  },
+  {
+    "question_no": 64,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the antenatal care coverage for at least four visits in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The antenatal care coverage for at least four visits in 2014 in Bangladesh was 47%."
+  },
+  {
+    "question_no": 65,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were attended by skilled health personnel in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 42.1% of births in Bangladesh were attended by skilled health personnel."
+  },
+  {
+    "question_no": 66,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were Caesarean sections in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 23% of births in Bangladesh were Caesarean sections."
+  },
+  {
+    "question_no": 67,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 20–24 had given birth before the age of 18 in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 59% of women aged 20–24 in Bangladesh had given birth before the age of 18."
+  },
+  {
+    "question_no": 68,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 with a live birth delivered in a health facility in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 37% of women aged 15–49 with a live birth in Bangladesh delivered in a health facility."
+  },
+  {
+    "question_no": 69,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births had their first postnatal check-up within the first two days in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014 in Bangladesh, 47% of births had their first postnatal check-up within the first two days."
+  },
+  {
+    "question_no": 70,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 with a live birth delivered in a health facility in 2014 had their first postnatal check-up within the first two days?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 59% of women aged 15–49 with a live birth delivered in a health facility had their first postnatal check-up within the first two days."
+  },
+  {
+    "question_no": 71,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 20–24 had given birth before the age of 18 in 2014 who delivered in a health facility?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I can't provide the specific percentage of women aged 20-24 who had given birth before the age of 18 in 2014 and delivered in a health facility without additional data or context. This information may be available in specific health or demographic studies or reports."
+  },
+  {
+    "question_no": 72,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births had their first postnatal check-up within the first two days who were delivered in a health facility in 2014?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The percentage of births that had their first postnatal check-up within the first two days and were delivered in a health facility in 2014 was 75.1%."
+  },
+  {
+    "question_no": 73,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were Caesarean sections in 2014 who were delivered in a health facility?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 18.6% of births delivered in a health facility were Caesarean sections."
+  },
+  {
+    "question_no": 74,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the MMR in Bangladesh in 2015 compared to the global average?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2015, the maternal mortality ratio (MMR) in Bangladesh was 176 deaths per 100,000 live births, which was lower than the global average of 216 deaths per 100,000 live births."
+  },
+  {
+    "question_no": 75,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 received antenatal care coverage for at least four visits in 2014 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2014, 47% of women aged 15–49 in Bangladesh received antenatal care coverage for at least four visits."
+  },
+  {
+    "question_no": 76,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did COVID-19 reach Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "COVID-19 was first reported in Bangladesh on March 8, 2020."
+  },
+  {
+    "question_no": 77,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "Who confirmed the first cases of COVID-19 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The first cases of COVID-19 in Bangladesh were confirmed by the country's Institute of Epidemiology, Disease Control and Research (IEDCR) on March 8, 2020."
+  },
+  {
+    "question_no": 78,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the duration of the nationwide lockdown imposed in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The nationwide lockdown in Bangladesh was imposed for about two months, starting from March 26, 2020, and ending on May 30, 2020."
+  },
+  {
+    "question_no": 79,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many times did the number of COVID-19 cases increase in April 2020?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I can't provide real-time data or updates on the number of COVID-19 cases. For the most accurate and up-to-date information, please refer to reliable sources such as the World Health Organization (WHO) or the Centers for Disease Control and Prevention (CDC)."
+  },
+  {
+    "question_no": 80,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "By when had all districts in Bangladesh been affected by COVID-19?",
+    "Responsed_model": "GPT-4",
+    "model_response": "By April 2020, all districts in Bangladesh had been affected by COVID-19."
+  },
+  {
+    "question_no": 81,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did Bangladesh surpass China in reported COVID-19 cases?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As an AI language model, I do not have real-time data. As of my last knowledge update in September 2021, I do not have specific information on when or if Bangladesh surpassed China in reported COVID-19 cases. For the most accurate and up-to-date information, please refer to reliable sources such as the World Health Organization (WHO), Johns Hopkins Coronavirus Resource Center, or other reputable health department websites."
+  },
+  {
+    "question_no": 82,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of COVID-19 cases and deaths in Bangladesh by July 5, 2020?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of July 5, 2020, Bangladesh reported a total of 162,417 COVID-19 cases and 2,052 deaths."
+  },
+  {
+    "question_no": 83,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the initial testing procedure for COVID-19 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The initial testing procedure for COVID-19 in Bangladesh involved collecting samples from individuals suspected of having the virus, primarily through nasopharyngeal swabs. These samples were then sent to designated laboratories equipped to perform real-time polymerase chain reaction (RT-PCR) tests, which detect the genetic material of the virus. The Institute of Epidemiology, Disease Control and Research (IEDCR) was the primary facility conducting these tests at the beginning of the pandemic. As cases increased, the testing capacity was expanded to include more laboratories across the country."
+  },
+  {
+    "question_no": 84,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How much oxygen demand rose to in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The oxygen demand in Bangladesh rose to 220 tons per day."
+  },
+  {
+    "question_no": 85,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the leading cause of death in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As an AI language model, I do not have real-time data. However, historically, the leading causes of death in Bangladesh have included ischemic heart disease, stroke, chronic obstructive pulmonary disease, and lower respiratory infections. For the most accurate and up-to-date information on the leading cause of death in Bangladesh in 2021, I recommend checking the latest reports from reputable sources such as the World Health Organization (WHO) or the Institute for Health Metrics and Evaluation (IHME)."
+  },
+  {
+    "question_no": 86,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What were the top three causes of death for males in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As an AI language model, I do not have real-time data. However, according to the Global Burden of Disease Study by the Institute for Health Metrics and Evaluation (IHME), the leading causes of death in Bangladesh have historically included ischemic heart disease, stroke, and chronic obstructive pulmonary disease. For the most accurate and up-to-date information for 2021, I recommend checking the latest reports from reputable sources such as the World Health Organization (WHO) or the IHME."
+  },
+  {
+    "question_no": 87,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many deaths from noncommunicable diseases were recorded in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I don't have access to real-time data. You may want to check the latest statistics from reliable sources such as the World Health Organization or the Bangladesh Ministry of Health for the most accurate and up-to-date information on noncommunicable disease deaths in Bangladesh for the year 2021."
+  },
+  {
+    "question_no": 88,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the estimated number of deaths caused by air pollution in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The estimated number of deaths caused by air pollution in Bangladesh in 2021 was 78,145."
+  },
+  {
+    "question_no": 89,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many children under five died from air pollution-related causes in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2021, air pollution-related causes led to the deaths of 9,600 children under five in Bangladesh."
+  },
+  {
+    "question_no": 90,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the global number of child deaths caused by indoor cooking fuels in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of my last knowledge update in September 2021, I don't have the specific global number of child deaths caused by indoor cooking fuels for the year 2021. However, it is known that household air pollution from cooking with solid fuels and kerosene caused approximately 3.8 million premature deaths annually, including children, according to the World Health Organization. For the most accurate and current statistics, I recommend checking the latest reports from the World Health Organization or other reputable sources."
+  },
+  {
+    "question_no": 91,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many people died from ozone-related COPD in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I don't have access to real-time data. Please consult the latest reports or databases from relevant health or environmental organizations for the most accurate and up-to-date information on ozone-related COPD deaths in Bangladesh for the year 2021."
+  },
+  {
+    "question_no": 92,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did the IEDCR confirm the first cases of COVID-19 in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The IEDCR confirmed the first cases of COVID-19 in Bangladesh on March 8, 2020."
+  },
+  {
+    "question_no": 93,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the date of the nationwide lockdown imposition in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The nationwide lockdown in Bangladesh was imposed on March 26, 2020."
+  },
+  {
+    "question_no": 94,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many times did the number of COVID-19 cases increase overall in 2020?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I can't provide real-time data or specific numbers on the increase of COVID-19 cases in 2020. You can check reliable sources like the World Health Organization (WHO) or the Centers for Disease Control and Prevention (CDC) for the most accurate and up-to-date information."
+  },
+  {
+    "question_no": 95,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of COVID-19 cases and deaths in Bangladesh by June 13, 2020?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of June 13, 2020, Bangladesh reported a total of 87,520 COVID-19 cases and 1,171 deaths."
+  },
+  {
+    "question_no": 96,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "Who coordinated forecasting medical oxygen needs in Bangladesh?",
+    "Responsed_model": "GPT-4",
+    "model_response": "The World Health Organization (WHO) coordinated forecasting medical oxygen needs in Bangladesh."
+  },
+  {
+    "question_no": 97,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the percentage of deaths from noncommunicable diseases in Bangladesh in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "As of my last knowledge update in September 2021, I don't have the specific percentage of deaths from noncommunicable diseases in Bangladesh for the year 2021. For the most accurate and recent statistics, I recommend checking the latest reports from reliable sources such as the World Health Organization (WHO) or the Bangladesh Ministry of Health and Family Welfare."
+  },
+  {
+    "question_no": 98,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many people died due to air pollution-related causes globally in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I don't have real-time data access. As of my last knowledge update in September 2021, I can't provide the specific number of deaths due to air pollution-related causes globally in 2021. For the most accurate and up-to-date information, I recommend checking reliable sources such as the World Health Organization (WHO) or recent studies on air pollution and health impacts."
+  },
+  {
+    "question_no": 99,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of child deaths caused by air pollution and indoor cooking fuels globally in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "In 2021, air pollution and indoor cooking fuels were responsible for the deaths of approximately 400,000 children globally."
+  },
+  {
+    "question_no": 100,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What were the top three countries for ozone-related COPD deaths among children under five in 2021?",
+    "Responsed_model": "GPT-4",
+    "model_response": "I'm sorry, but I can't provide real-time or the most recent data as of 2021. However, I can provide general information about the impact of ozone on COPD and health. Ozone, a major component of smog, can exacerbate chronic obstructive pulmonary disease (COPD) and other respiratory conditions. Typically, countries with higher levels of air pollution, including ozone, may experience higher rates of respiratory-related health issues, including COPD. These often include countries with large urban populations and significant industrial activity. For specific and current statistics, I recommend checking the latest reports from health organizations such as the World Health Organization (WHO) or environmental agencies that monitor air quality and its health impacts."
+  }
+]

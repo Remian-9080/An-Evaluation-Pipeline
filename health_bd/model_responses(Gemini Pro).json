@@ -1,0 +1,802 @@
+[
+  {
+    "question_no": 1,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of GDP did Bangladesh spend on healthcare in 2019?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Based on information regarding Bangladesh's healthcare expenditure, the percentage of GDP spent on healthcare in 2019 would be a specific figure reflecting public and private spending."
+  },
+  {
+    "question_no": 2,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "According to the Human Rights Measurement Initiative, what percentage of the right to health is Bangladesh fulfilling based on its income level?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Human Rights Measurement Initiative assesses countries' fulfillment of human rights. For Bangladesh in relation to the right to health and its income level, a specific percentage would be provided by their data, indicating how much of the right they are meeting relative to what is expected given their resources."
+  },
+  {
+    "question_no": 3,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How much of the right to health for children is Bangladesh achieving based on its income?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Similar to the general right to health, the Human Rights Measurement Initiative would provide a specific percentage for Bangladesh's achievement of the right to health for children, relative to its income."
+  },
+  {
+    "question_no": 4,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the percentage of right to health fulfillment for adults in Bangladesh based on income?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Human Rights Measurement Initiative's data would indicate a specific percentage for Bangladesh's fulfillment of the right to health for adults, considering its income level."
+  },
+  {
+    "question_no": 5,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of expected reproductive health rights is Bangladesh fulfilling based on its available resources?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Bangladesh's fulfillment of expected reproductive health rights, based on available resources, would be represented by a specific percentage from relevant human rights or health reports."
+  },
+  {
+    "question_no": 6,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "Into which category does Bangladesh fall when evaluated on reproductive health rights?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "When evaluated on reproductive health rights, Bangladesh would be placed into a specific category by assessment organizations, often indicating levels of achievement or areas for improvement."
+  },
+  {
+    "question_no": 7,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What was the health sector budget in the 2017–18 parliamentary budget of Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The 2017–18 parliamentary budget of Bangladesh would specify a certain amount or percentage allocated to the health sector."
+  },
+  {
+    "question_no": 8,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How many hospital beds are there per 10,000 people in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Data on Bangladesh's healthcare infrastructure would provide the specific number of hospital beds available per 10,000 people."
+  },
+  {
+    "question_no": 9,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What was the general government expenditure on healthcare as a percentage of total government expenditure in 2009?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2009, the general government expenditure on healthcare in Bangladesh, as a percentage of total government expenditure, would be a recorded statistic reflecting budget allocation."
+  },
+  {
+    "question_no": 10,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What percentage of private health expenditure in Bangladesh is paid out-of-pocket?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The percentage of private health expenditure in Bangladesh that is paid out-of-pocket is a key indicator of healthcare financing and affordability."
+  },
+  {
+    "question_no": 11,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the doctor-to-population ratio in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The doctor-to-population ratio in Bangladesh is a demographic statistic reflecting the number of doctors available per a certain number of people."
+  },
+  {
+    "question_no": 12,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the nurse-to-population ratio in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Similarly, the nurse-to-population ratio in Bangladesh indicates the availability of nursing professionals per a given population size."
+  },
+  {
+    "question_no": 13,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "According to WHO, how many hospitals were there in Bangladesh as of 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "According to the World Health Organization (WHO), as of 2021, Bangladesh had a specific number of hospitals as recorded in their global health statistics."
+  },
+  {
+    "question_no": 14,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What types of hospitals are included in the 5,146 count provided by WHO for Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The WHO's count of 5,146 hospitals for Bangladesh typically includes various types such as public, private, general, specialized, and rural health facilities that provide inpatient care."
+  },
+  {
+    "question_no": 15,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What range of medical services do hospitals in Bangladesh offer?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Hospitals in Bangladesh generally offer a wide range of medical services, from basic primary care and emergency services to specialized treatments, surgeries, and diagnostic facilities."
+  },
+  {
+    "question_no": 16,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What efforts has the government of Bangladesh made to improve hospital quality?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The government of Bangladesh has likely undertaken various initiatives to improve hospital quality, which may include infrastructure development, training for healthcare professionals, quality assurance programs, and policy reforms."
+  },
+  {
+    "question_no": 17,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How is Bangladesh’s economy described in relation to its public health challenges and opportunities?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Bangladesh's economy is often described as developing or emerging, presenting both significant public health challenges (e.g., resource limitations, disease burden) and opportunities (e.g., economic growth enabling investment in health, innovation)."
+  },
+  {
+    "question_no": 18,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What aspects of Bangladeshi society have undergone a 'remarkable metamorphosis'?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Various aspects of Bangladeshi society, such as economic growth, poverty reduction, improvements in health indicators, and social development, have undergone significant transformation or 'remarkable metamorphosis' over the years."
+  },
+  {
+    "question_no": 19,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "How does the Human Rights Measurement Initiative assess Bangladesh's fulfillment of health rights relative to its income?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Human Rights Measurement Initiative assesses Bangladesh's health rights fulfillment relative to its income by comparing actual outcomes against what would be expected for a country at its economic level, indicating whether it is over or underperforming."
+  },
+  {
+    "question_no": 20,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "Which population group in Bangladesh has the highest percentage fulfillment of the right to health?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Typically, analyses of human rights fulfillment, including the right to health, would identify specific population groups (e.g., urban vs. rural, higher income vs. lower income, specific age groups) that show the highest percentage of fulfillment in Bangladesh."
+  },
+  {
+    "question_no": 21,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the role of hospitals in Bangladesh’s healthcare system?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Hospitals play a central role in Bangladesh's healthcare system, serving as key providers of secondary and tertiary care, emergency services, specialized medical treatments, and often as training centers for health professionals."
+  },
+  {
+    "question_no": 22,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What emphasis has Bangladesh placed on its healthcare infrastructure?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Bangladesh has placed varying emphasis on its healthcare infrastructure over time, often focusing on expanding access, improving quality, and increasing the number of facilities and beds, especially in rural areas."
+  },
+  {
+    "question_no": 23,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What initiatives has the government of Bangladesh implemented to promote patient safety?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "To promote patient safety, the government of Bangladesh has likely implemented initiatives such as establishing regulatory bodies, developing guidelines, promoting infection control, and enhancing training for healthcare providers."
+  },
+  {
+    "question_no": 24,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What is the significance of Bangladesh having 5,146 hospitals in terms of access?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Having 5,146 hospitals in Bangladesh signifies a substantial network of healthcare facilities, which potentially enhances access to medical care for a large population, though distribution and quality remain key factors."
+  },
+  {
+    "question_no": 25,
+    "data_chuck": 1,
+    "model(q)": "GPT-4",
+    "question": "What year does the WHO hospital data for Bangladesh refer to?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The WHO hospital data for Bangladesh refers to the year 2021."
+  },
+  {
+    "question_no": 26,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What type of disease is Chikungunya?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Chikungunya is a viral disease caused by the Chikungunya virus (CHIKV)."
+  },
+  {
+    "question_no": 27,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How is Chikungunya transmitted to humans?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Chikungunya is primarily transmitted to humans through the bite of infected mosquitoes."
+  },
+  {
+    "question_no": 28,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which specific mosquito species are known to transmit Chikungunya and are present in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The specific mosquito species known to transmit Chikungunya and present in Bangladesh are primarily Aedes aegypti and Aedes albopictus."
+  },
+  {
+    "question_no": 29,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "To which family and genus does the Chikungunya virus belong?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Chikungunya virus (CHIKV) belongs to the Togaviridae family and the Alphavirus genus."
+  },
+  {
+    "question_no": 30,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When and where was Chikungunya first described?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Chikungunya was first described in 1952 in Tanzania."
+  },
+  {
+    "question_no": 31,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "In which regions has CHIKV been reported to cause large-scale outbreaks?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "CHIKV has been reported to cause large-scale outbreaks in regions across Africa, Asia, Europe, and the Americas."
+  },
+  {
+    "question_no": 32,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How does the transmission cycle of Chikungunya virus in the South-East Asia region differ from that on the African continent?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "While both regions involve mosquito-borne transmission, the South-East Asia region typically has an urban cycle involving humans and Aedes mosquitoes, whereas the African continent often includes a sylvatic cycle with non-human primates and forest-dwelling mosquitoes."
+  },
+  {
+    "question_no": 33,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When and where was the first recognized outbreak of Chikungunya reported in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The first recognized outbreak of Chikungunya in Bangladesh was reported in 2008, specifically in the district of Rajshahi."
+  },
+  {
+    "question_no": 34,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When were two small-scale Chikungunya outbreaks documented in rural communities in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Two small-scale Chikungunya outbreaks were documented in rural communities in Bangladesh in 2011."
+  },
+  {
+    "question_no": 35,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "When did a massive outbreak of Chikungunya occur in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "A massive outbreak of Chikungunya occurred in Bangladesh in 2017."
+  },
+  {
+    "question_no": 36,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many people in Dhaka were at risk of Chikungunya infection during the 2017 outbreak?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "During the 2017 Chikungunya outbreak, a significant portion of Dhaka's population was at risk, though a precise number would require a detailed epidemiological report."
+  },
+  {
+    "question_no": 37,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many cases were involved in the research study conducted between July 24 and August 5, 2017, regarding Chikungunya?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The research study conducted between July 24 and August 5, 2017, regarding Chikungunya involved a specific number of cases, which would be stated in the study's methodology."
+  },
+  {
+    "question_no": 38,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What is considered the most consistent clinical feature of Chikungunya infection?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The most consistent clinical feature of Chikungunya infection is typically severe joint pain (arthralgia)."
+  },
+  {
+    "question_no": 39,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Arthralgia?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In studies of Chikungunya, Arthralgia is a highly prevalent symptom, and the percentage of patients experiencing it would be very high, often close to 100%."
+  },
+  {
+    "question_no": 40,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Skin Rash?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The percentage of patients experiencing skin rash in a Chikungunya study would vary, but it is a common symptom, usually affecting a significant portion of patients."
+  },
+  {
+    "question_no": 41,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of patients in the study experienced Headache?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Headache is a frequent symptom of Chikungunya, and the percentage of patients reporting it in a study would be substantial."
+  },
+  {
+    "question_no": 42,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What factors can influence the severity of Chikungunya's clinical manifestations?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Factors influencing the severity of Chikungunya's clinical manifestations can include the patient's age, pre-existing health conditions, immune status, and the specific viral strain."
+  },
+  {
+    "question_no": 43,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which age group tended to have a higher proportion of oligo-arthralgia and skin rash due to Chikungunya?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Studies often show that specific age groups, such as younger children or older adults, might present with a higher proportion of certain symptoms like oligo-arthralgia and skin rash in Chikungunya cases."
+  },
+  {
+    "question_no": 44,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Which age group most commonly experienced joint swelling due to Chikungunya?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Joint swelling due to Chikungunya is common across age groups, but often becomes more pronounced or persistent in older adults."
+  },
+  {
+    "question_no": 45,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "Between January 1 and August 19, 2023, how many cases of dengue were reported in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Official health reports for Bangladesh would specify the exact number of dengue cases reported between January 1 and August 19, 2023."
+  },
+  {
+    "question_no": 46,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What percentage of women were affected by the dengue outbreak in Bangladesh between January 1 and August 19, 2023?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Gender-disaggregated data from the dengue outbreak in Bangladesh between January 1 and August 19, 2023, would indicate the specific percentage of women affected."
+  },
+  {
+    "question_no": 47,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "How many deaths were caused by tobacco from any cause in Bangladesh in 2018?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Reports on tobacco-related mortality in Bangladesh for 2018 would provide the estimated number of deaths attributable to tobacco from any cause."
+  },
+  {
+    "question_no": 48,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What were the direct healthcare costs attributable to tobacco use annually in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Studies on the economic burden of tobacco use in Bangladesh would detail the direct healthcare costs attributable to it annually."
+  },
+  {
+    "question_no": 49,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What was the estimated annual productivity loss due to morbidity and premature mortality from tobacco-related diseases in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The estimated annual productivity loss in Bangladesh due to morbidity and premature mortality from tobacco-related diseases would be a significant economic figure highlighted in relevant health and economic analyses."
+  },
+  {
+    "question_no": 50,
+    "data_chuck": 2,
+    "model(q)": "Gemini Pro",
+    "question": "What was the total annual economic cost attributable to tobacco use in Bangladesh, and what percentage of the GDP did it represent in 2017–18?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The total annual economic cost attributable to tobacco use in Bangladesh and its representation as a percentage of GDP in 2017–18 would be substantial figures found in economic health reports."
+  },
+  {
+    "question_no": 51,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What year was the Health and Population Sector Strategy (HPSS) developed in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Health and Population Sector Strategy (HPSS) in Bangladesh was developed in a specific year, which historical documents or government reports would confirm."
+  },
+  {
+    "question_no": 52,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What were the seven strategies included in the HPSP (MOHFW, 1998)?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Health and Population Sector Program (HPSP) by the Ministry of Health and Family Welfare (MOHFW) in 1998 included seven key strategies aimed at improving health outcomes in Bangladesh."
+  },
+  {
+    "question_no": 53,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the number of under-5 deaths, infant deaths, and neonatal deaths in Bangladesh in 1990?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 1990, Bangladesh had specific recorded numbers for under-5 deaths, infant deaths, and neonatal deaths, reflecting the child mortality rates of that period."
+  },
+  {
+    "question_no": 54,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What were the major causes of under-5 child mortality in Bangladesh in the given passage?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The passage would specify the major causes of under-5 child mortality in Bangladesh, which commonly include infectious diseases like pneumonia, diarrhea, and vaccine-preventable diseases, as well as malnutrition and birth complications."
+  },
+  {
+    "question_no": 55,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "In what year did the number of under-5 deaths, infant deaths, and neonatal deaths significantly reduce in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The specific year or period when the number of under-5 deaths, infant deaths, and neonatal deaths significantly reduced in Bangladesh would be identified in health trend reports."
+  },
+  {
+    "question_no": 56,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What is the current number of under-5 deaths, infant deaths, and neonatal deaths in Bangladesh as of 2017?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "As of 2017, Bangladesh's under-5 deaths, infant deaths, and neonatal deaths would be reported with specific, reduced numbers compared to earlier periods, indicating progress in child health."
+  },
+  {
+    "question_no": 57,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What is the risk of mortality for smaller babies in Bangladesh, according to a study on risk factors of infant mortality?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "According to studies on infant mortality risk factors in Bangladesh, smaller babies generally face a higher risk of mortality due to factors like low birth weight and prematurity."
+  },
+  {
+    "question_no": 58,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "In what ways are infant mortality rates lower for the urban population and higher economic classes in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Infant mortality rates are generally lower for the urban population and higher economic classes in Bangladesh due to better access to healthcare facilities, nutrition, sanitation, and education."
+  },
+  {
+    "question_no": 59,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the Millennium Development Goal (MDG) 5 target for reducing the maternal mortality rate (MMR) in Bangladesh by 2015?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Millennium Development Goal (MDG) 5 target for reducing the maternal mortality rate (MMR) in Bangladesh by 2015 aimed for a two-thirds reduction from the 1990 level."
+  },
+  {
+    "question_no": 60,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the MMR in Bangladesh in 1990 and 2015?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Maternal Mortality Rate (MMR) in Bangladesh was significantly higher in 1990 and showed a considerable reduction by 2015, as documented in national health surveys."
+  },
+  {
+    "question_no": 61,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the global MMR in 1990 and 2015?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The global Maternal Mortality Rate (MMR) in 1990 and 2015 would show a decline over this period, reflecting worldwide efforts to improve maternal health."
+  },
+  {
+    "question_no": 62,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "How many deaths of women during pregnancy or within 42 days of termination occurred in Bangladesh in 1990 and 2015?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The number of deaths of women during pregnancy or within 42 days of termination in Bangladesh in 1990 and 2015 would reflect the absolute numbers corresponding to the MMR rates for those years."
+  },
+  {
+    "question_no": 63,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 received postnatal care within two days after giving birth in 2014, according to data on maternal health indicators in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2014, the data on maternal health indicators in Bangladesh would provide a specific percentage of women aged 15–49 who received postnatal care within two days after giving birth."
+  },
+  {
+    "question_no": 64,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the antenatal care coverage for at least four visits in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The antenatal care coverage for at least four visits in 2014 in Bangladesh would be a reported percentage reflecting the utilization of recommended antenatal services."
+  },
+  {
+    "question_no": 65,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were attended by skilled health personnel in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2014, the percentage of births attended by skilled health personnel in Bangladesh would indicate the progress in ensuring professional assistance during delivery."
+  },
+  {
+    "question_no": 66,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were Caesarean sections in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The percentage of births that were Caesarean sections in Bangladesh in 2014 would reflect the prevalence of surgical deliveries during that period."
+  },
+  {
+    "question_no": 67,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 20–24 had given birth before the age of 18 in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2014, the percentage of women aged 20–24 who had given birth before the age of 18 in Bangladesh would indicate the prevalence of adolescent pregnancies."
+  },
+  {
+    "question_no": 68,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 with a live birth delivered in a health facility in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The percentage of women aged 15–49 with a live birth who delivered in a health facility in 2014 in Bangladesh would reflect the rate of institutional deliveries."
+  },
+  {
+    "question_no": 69,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births had their first postnatal check-up within the first two days in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2014, the percentage of births that had their first postnatal check-up within the first two days in Bangladesh would indicate the timely receipt of essential postpartum care."
+  },
+  {
+    "question_no": 70,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 with a live birth delivered in a health facility in 2014 had their first postnatal check-up within the first two days?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "For women aged 15–49 with a live birth who delivered in a health facility in 2014, the percentage having their first postnatal check-up within the first two days would reflect the quality and follow-up of facility-based care."
+  },
+  {
+    "question_no": 71,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 20–24 had given birth before the age of 18 in 2014 who delivered in a health facility?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The percentage of women aged 20–24 who had given birth before the age of 18 and delivered in a health facility in 2014 would specifically show facility delivery rates among adolescent mothers."
+  },
+  {
+    "question_no": 72,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births had their first postnatal check-up within the first two days who were delivered in a health facility in 2014?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "For births occurring in a health facility in 2014, the percentage receiving their first postnatal check-up within the first two days indicates the continuity of care within the formal health system."
+  },
+  {
+    "question_no": 73,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of births were Caesarean sections in 2014 who were delivered in a health facility?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Among births delivered in a health facility in 2014, the percentage that were Caesarean sections would reflect the rate of surgical interventions in institutional settings."
+  },
+  {
+    "question_no": 74,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What was the MMR in Bangladesh in 2015 compared to the global average?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Comparing Bangladesh's Maternal Mortality Rate (MMR) in 2015 to the global average for that year would show how its performance aligned with or deviated from worldwide trends in maternal health."
+  },
+  {
+    "question_no": 75,
+    "data_chuck": 3,
+    "model(q)": "mistral 7b",
+    "question": "What percentage of women aged 15–49 received antenatal care coverage for at least four visits in 2014 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2014, the percentage of women aged 15–49 who received antenatal care coverage for at least four visits in Bangladesh would indicate the extent of comprehensive antenatal care uptake."
+  },
+  {
+    "question_no": 76,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did COVID-19 reach Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "COVID-19 reached Bangladesh and the first cases were confirmed in early March 2020."
+  },
+  {
+    "question_no": 77,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "Who confirmed the first cases of COVID-19 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The Institute of Epidemiology, Disease Control and Research (IEDCR) in Bangladesh confirmed the first cases of COVID-19."
+  },
+  {
+    "question_no": 78,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the duration of the nationwide lockdown imposed in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The nationwide lockdown in Bangladesh was imposed for a significant period during the initial phase of the pandemic, with specific start and end dates."
+  },
+  {
+    "question_no": 79,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many times did the number of COVID-19 cases increase in April 2020?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In April 2020, the number of COVID-19 cases in Bangladesh saw a substantial increase, reflecting the rapid spread of the virus during that month."
+  },
+  {
+    "question_no": 80,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "By when had all districts in Bangladesh been affected by COVID-19?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "All districts in Bangladesh had been affected by COVID-19 within a few months of the initial outbreak, indicating widespread transmission across the country."
+  },
+  {
+    "question_no": 81,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did Bangladesh surpass China in reported COVID-19 cases?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Bangladesh surpassed China in reported COVID-19 cases during the early to mid-period of 2020, as its outbreak escalated."
+  },
+  {
+    "question_no": 82,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of COVID-19 cases and deaths in Bangladesh by July 5, 2020?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "By July 5, 2020, Bangladesh had accumulated a significant total number of COVID-19 cases and deaths, reflecting the pandemic's progression in the country."
+  },
+  {
+    "question_no": 83,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the initial testing procedure for COVID-19 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The initial testing procedure for COVID-19 in Bangladesh typically involved RT-PCR tests conducted at designated laboratories."
+  },
+  {
+    "question_no": 84,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How much oxygen demand rose to in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "During peaks of the COVID-19 pandemic, oxygen demand in Bangladesh rose dramatically, placing immense pressure on the healthcare system and supply chains."
+  },
+  {
+    "question_no": 85,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the leading cause of death in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2021, the leading cause of death in Bangladesh was often related to non-communicable diseases or specific infectious diseases that had a high burden on the population, potentially including COVID-19's impact."
+  },
+  {
+    "question_no": 86,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What were the top three causes of death for males in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The top three causes of death for males in Bangladesh in 2021 would typically include cardiovascular diseases, respiratory illnesses, and potentially certain cancers or injuries, depending on specific mortality data."
+  },
+  {
+    "question_no": 87,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many deaths from noncommunicable diseases were recorded in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The number of deaths from noncommunicable diseases (NCDs) recorded in Bangladesh in 2021 would be a substantial figure, as NCDs are a growing health concern globally and locally."
+  },
+  {
+    "question_no": 88,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the estimated number of deaths caused by air pollution in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The estimated number of deaths caused by air pollution in Bangladesh in 2021 would be a high figure, reflecting the severe impact of air quality on public health."
+  },
+  {
+    "question_no": 89,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many children under five died from air pollution-related causes in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2021, a significant number of children under five died from air pollution-related causes in Bangladesh, highlighting the vulnerability of this age group to environmental factors."
+  },
+  {
+    "question_no": 90,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the global number of child deaths caused by indoor cooking fuels in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Globally, in 2021, indoor cooking fuels caused a considerable number of child deaths, particularly in developing regions where traditional cooking methods are prevalent."
+  },
+  {
+    "question_no": 91,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many people died from ozone-related COPD in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2021, a specific number of people died from ozone-related Chronic Obstructive Pulmonary Disease (COPD) in Bangladesh, reflecting the impact of air quality on respiratory health."
+  },
+  {
+    "question_no": 92,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "When did the IEDCR confirm the first cases of COVID-19 in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The IEDCR confirmed the first cases of COVID-19 in Bangladesh on March 8, 2020."
+  },
+  {
+    "question_no": 93,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the date of the nationwide lockdown imposition in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The nationwide lockdown in Bangladesh was imposed on March 26, 2020."
+  },
+  {
+    "question_no": 94,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many times did the number of COVID-19 cases increase overall in 2020?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The number of COVID-19 cases in Bangladesh increased exponentially throughout 2020, showing a multi-fold rise from the initial numbers."
+  },
+  {
+    "question_no": 95,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of COVID-19 cases and deaths in Bangladesh by June 13, 2020?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "By June 13, 2020, Bangladesh had reported a significant number of COVID-19 cases and deaths, with statistics publicly available from health authorities."
+  },
+  {
+    "question_no": 96,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "Who coordinated forecasting medical oxygen needs in Bangladesh?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Government health agencies, in collaboration with international organizations and local stakeholders, coordinated forecasting medical oxygen needs in Bangladesh during the pandemic."
+  },
+  {
+    "question_no": 97,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the percentage of deaths from noncommunicable diseases in Bangladesh in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "In 2021, the percentage of deaths from noncommunicable diseases (NCDs) in Bangladesh would reflect the high burden of these chronic conditions on the country's mortality rates."
+  },
+  {
+    "question_no": 98,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "How many people died due to air pollution-related causes globally in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "Globally, millions of people died due to air pollution-related causes in 2021, making it a leading environmental health risk."
+  },
+  {
+    "question_no": 99,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What was the total number of child deaths caused by air pollution and indoor cooking fuels globally in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The total number of child deaths caused by air pollution and indoor cooking fuels globally in 2021 would be a critical statistic, highlighting the impact of environmental factors on child health, particularly in vulnerable populations."
+  },
+  {
+    "question_no": 100,
+    "data_chuck": 4,
+    "model(q)": "Llama3",
+    "question": "What were the top three countries for ozone-related COPD deaths among children under five in 2021?",
+    "Responsed_model": "Gemini Pro",
+    "model_response": "The top three countries for ozone-related COPD deaths among children under five in 2021 would likely be those with high levels of ozone pollution and significant child populations."
+  }
+]
